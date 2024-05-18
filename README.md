@@ -33,7 +33,7 @@ https://share.vidyard.com/watch/tsfog7C9TCzBysn3VR6KqA?
 
 ## Pitch Deck
 
-- [Presentation](https://www.canva.com/design/DAF0i4Vn-7g/rXEvZ28I8Nc6vIU5gwjylQ/edit?utm_content=DAF0i4Vn-7g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Presentation](https://www.canva.com/design/DAGFlYDFW90/QZxYb0psq3exO893xACg9Q/edit?utm_content=DAGFlYDFW90&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Features
 1. As a user, I want to create a savings pool to save with friends.
