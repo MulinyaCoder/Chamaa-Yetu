@@ -24,9 +24,6 @@ Chamaa is a revolutionary DApp built on the Celo Blockchain, inspired by the tra
 
 With a focus on financial inclusion, Chamaa utilizes the stablecoin cUSD to offer a stable and accessible currency, making it a hedge against inflation, especially in African countries. The app is designed to be inclusive, leveraging Minipay on the Opera Mini browser for usability in low-data network environments. Chamaa is not just a financial tool; it's a community-driven initiative fostering economic empowerment and resilience.
 
-## Demo video
-
-https://share.vidyard.com/watch/tsfog7C9TCzBysn3VR6KqA?
 
 
 [Go Back to the top](#Chamaa-Dapp-Web-app)
